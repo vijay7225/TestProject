@@ -42,6 +42,6 @@ public class FirstTestCase
        
         driver.get("http://www.facebook.com"); 
         // Close the driver
-       // driver.quit();
+        driver.quit();
     }
 }
